@@ -1,3 +1,4 @@
+importScripts("https://progressier.app/dxKVBATreSrUYJ9ye5kN/sw.js" );
 // Service Worker for offline support
 const CACHE_NAME = 'inventory-app-v6';
 const urlsToCache = [
